@@ -26,6 +26,14 @@ Features:
 como parámetros la velocidad y la distancia a recorrer
 - Formulario para calcular el perímetro de un rombo
 
+Branch CA-2
+Generar documento automáticamente de constancia de póliza de para motocicletas
+
+- Formulario para calcular el área de un triángulo rectángulo
+- Formulario para calcular el área de un círculo
+- Tener un formulario que solicite una palabra en un campo y retorne el número de caracteres que 
+tiene en otro campo y cuántas vocales
+
 Branch CA-8
 Generar servicio para activación de póliza por siniestro de mascotas
 - Formulario que me retorne la fecha y la hora al momento de dar un click en un botón
